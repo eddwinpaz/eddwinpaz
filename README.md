@@ -1,17 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Eddwin Paz
 
-Here are some ideas to get you started:
+Currently living in 🇨🇱 chile, Santiago
+Years of software development: 18 Years
 
-- 🔭 I’m currently working on Acid Labs
-- 🌱 I’m currently learning 
-     - Rust
-- 👯 I’m looking to collaborate on 
-     - Open Source
-- 🤔 I’m looking for help with 
-      - Rust
+- 🔭 I’m currently working on **Acid Labs**
+- 🌱 I’m currently learning **advanced Rust**
+- 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about:
-     - Python, Golang, Terraform, Kubernetes, CSS, React, NextJS, NestJS
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
+     - **Python, Golang, Terraform, Kubernetes, CSS, React, NextJS, NestJS, Rust**
+- 📫 How to reach me: https://www.linkedin.com/in/eddwinpaz/
 - ⚡ Fun fact:
-    - I've found several bugs on big tech companies such as Twilio.
+    - I've found several bugs on big tech companies such as **Twilio**.
+    - Twilio's Thank letter: https://photos.app.goo.gl/UewJvvmG9n5wtVY98
