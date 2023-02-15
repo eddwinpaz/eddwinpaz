@@ -1,10 +1,11 @@
 ### Hi there 👋 I'm Eddwin Paz
 
 Currently living in 🇨🇱 chile, Santiago
+
 Years of software development: 18 Years
 
-- 🔭 I’m currently working on **Acid Labs**
-- 🌱 I’m currently learning **advanced Rust**
+- 🔭 I’m currently working on **Searching for a new position**
+- 🌱 I’m currently learning **Advanced Rust**
 - 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about:
      - **Python, Golang, Terraform, Kubernetes, CSS, React, NextJS, NestJS, Rust**
