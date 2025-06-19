@@ -15,11 +15,14 @@ Software Development Expert & Technology Enthusiast
 ## What I'm doing right now?
 
 - 🔭 I’m currently working on **Searching for a new position**
+- I've now 3 years developing in VueJS. (Awesome so far)
+- Created a small blog https://eddwin.dev 
 - 🌱 I’m currently learning **Advanced Rust**
 - 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about:
-     - **Python, Golang, Terraform, Kubernetes, CSS, React, NextJS, NestJS, Rust**
+     - **Python, Golang, Terraform, Kubernetes, CSS, React, NextJS, NestJS, Rust** and sure VueJS
 - 📫 How to reach me: https://www.linkedin.com/in/eddwinpaz/
 - ⚡ Fun fact:
     - I've found several bugs on big tech companies such as **Twilio**.
     - Twilio's Thank letter: https://photos.app.goo.gl/UewJvvmG9n5wtVY98
+- Planning a TikTok / Youtube (AI Channel) soon.
